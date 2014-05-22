@@ -1,0 +1,7 @@
+kernel/crypto/ansi_cprng.ko:
+kernel/drivers/scsi/scsi_wait_scan.ko:
+kernel/drivers/amlogic/wifi/rtl8xxx_CU/8192cu.ko:
+kernel/drivers/amlogic/wifi/rtl8xxx_SU/8712u.ko:
+kernel/drivers/amlogic/wifi/rtl8xxx_EU/8188eu.ko:
+kernel/drivers/amlogic/ump/ump.ko:
+kernel/drivers/amlogic/mali/mali.ko: kernel/drivers/amlogic/ump/ump.ko
