@@ -1,0 +1,1 @@
+cmd_customer/drivers/vout/built-in.o :=  rm -f customer/drivers/vout/built-in.o; /home/nameless/s7300/arm-cortex_a9-linux-gnueabihf-linaro_4.7.4-2014.01/bin/arm-cortex_a9-linux-gnueabihf-ar rcsD customer/drivers/vout/built-in.o

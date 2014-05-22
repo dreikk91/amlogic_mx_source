@@ -1,0 +1,1 @@
+cmd_customer/drivers/built-in.o :=  /home/nameless/s7300/arm-cortex_a9-linux-gnueabihf-linaro_4.7.4-2014.01/bin/arm-cortex_a9-linux-gnueabihf-ld -EL    -r -o customer/drivers/built-in.o customer/drivers/misc/built-in.o customer/drivers/touchscreen/built-in.o customer/drivers/vout/built-in.o customer/drivers/board_env/built-in.o 

@@ -1,0 +1,1 @@
+cmd_customer/drivers/touchscreen/built-in.o :=  /home/nameless/s7300/arm-cortex_a9-linux-gnueabihf-linaro_4.7.4-2014.01/bin/arm-cortex_a9-linux-gnueabihf-ld -EL    -r -o customer/drivers/touchscreen/built-in.o customer/drivers/touchscreen/gt813_827_828.o 

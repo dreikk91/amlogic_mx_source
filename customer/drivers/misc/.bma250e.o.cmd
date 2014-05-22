@@ -1,0 +1,1 @@
+cmd_customer/drivers/misc/bma250e.o := /home/nameless/s7300/arm-cortex_a9-linux-gnueabihf-linaro_4.7.4-2014.01/bin/arm-cortex_a9-linux-gnueabihf-ld -EL    -r -o customer/drivers/misc/bma250e.o customer/drivers/misc/bma250.o customer/drivers/misc/bma250E_fix.o 

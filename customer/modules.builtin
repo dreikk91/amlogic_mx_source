@@ -1,0 +1,8 @@
+kernel/customer/drivers/misc/mma8452.ko
+kernel/customer/drivers/misc/mma7660.ko
+kernel/customer/drivers/misc/bma250e.ko
+kernel/customer/drivers/misc/mc32x0.ko
+kernel/customer/drivers/misc/stk831x.ko
+kernel/customer/drivers/misc/encrytion.ko
+kernel/customer/drivers/misc/adc_js.ko
+kernel/customer/drivers/touchscreen/gt813_827_828.ko
